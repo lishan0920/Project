@@ -18,7 +18,7 @@
 /*第一个p标签*/
 .topbar .container p:first-child a {
  text-indent: 210px;
-    
+ margin-left: 200px;
 }
 /*第一个p标签下面的a标签*/
 .topbar .container p:first-child a {
@@ -278,7 +278,6 @@ margin-right: 10px;
     font-size: 20px;
     margin-top: 5px;
 }
-
 /*--5.===================================== 电子书 =====================================--*/
 .ebooks{
     height: 496px;
@@ -433,7 +432,6 @@ margin-right: 10px;
     /*默认第一个显示详情*/
     display: block;
 }
-
 
 /*--6.===================================== 服装 =====================================--*/
 .clothes{
@@ -766,8 +764,8 @@ margin-right: 10px;
 }
 /*--9.===================================== 家居日用 =====================================--*/
 .daily{
-    height: 500px;
-    margin-top:  100px;
+    height: 516px;
+    margin-top:  34px;
     background-color: salmon;
 }
 .daily .top{
@@ -807,6 +805,7 @@ margin-right: 10px;
 }
 .daily .content .sport-list ul li{
     float: left;
+
     height: 260px;
     width: 191px;
     background-color: #fff;
@@ -1020,7 +1019,7 @@ margin-right: 10px;
     /*--定位--*/
     position: fixed;
     bottom: 100px;
-    left: 1400px;
+    left: 1325px;
     
 }
 .backToTop img{
